@@ -11,4 +11,4 @@ What skills did I use ?
 - Link to pages from same and other local directory
 - Use Image from other websites
 - Unordered and Ordered List
-- Use of Paragraphs (<p>)
+- Use of Paragraphs
